@@ -1,0 +1,6 @@
+Week 3
+------
+Undrwan: For SVG Photos
+Remove bg: Remove background
+freepik: for humburgers pictures
+vercel: For deploying the site
